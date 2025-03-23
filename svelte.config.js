@@ -13,7 +13,7 @@ const config = {
 			strict: false
 		}),
 		paths: {
-			base: dev ? '' : '/nft-gallery'
+			base: dev ? '' : '/'
 		},
 		prerender: {
 			handleHttpError: ({ path, referrer, message }) => {
