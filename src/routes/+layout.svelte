@@ -1,12 +1,13 @@
 <script>
 	import '../styles/global.css';
+	import { base } from '$app/paths';
 </script>
 
 <header>
 	<nav>
-		<a href="/">Home</a>
-		<a href="/gallery">Gallery</a>
-		<a href="/about">About</a>
+		<a href="{base}/">Home</a>
+		<a href="{base}/gallery">Gallery</a>
+		<a href="{base}/about">About</a>
 	</nav>
 </header>
 
