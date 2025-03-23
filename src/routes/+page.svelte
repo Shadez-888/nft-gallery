@@ -23,8 +23,8 @@
 		}
 	});
 
-	// Get 12 random NFTs for the featured section
-	$: featuredNFTs = getRandomNFTs($nfts, 12);
+	// Get 4 random NFTs for the featured section
+	$: featuredNFTs = getRandomNFTs($nfts, 4);
 </script>
 
 {#if loading}
@@ -88,7 +88,7 @@
 	.featured {
 		padding: 2rem 1rem;
 		width: 100%;
-		max-width: 1400px;
+		max-width: 1200px;
 		margin: 0 auto;
 	}
 
@@ -101,7 +101,7 @@
 
 	.grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+		grid-template-columns: repeat(2, 1fr);
 		gap: 1.5rem;
 		width: 100%;
 	}
@@ -129,6 +129,10 @@
 		
 		.title {
 			font-size: 9vw;
+		}
+
+		.grid {
+			gap: 1rem;
 		}
 	}
 </style>
