@@ -1,11 +1,9 @@
 import type { NFT, NFTMetadata, NFTAttribute } from '../types';
+import { base } from '$app/paths';
 
 // Function to get local image path and verify file existence
 function getLocalImagePath(id: string): string {
-    // Log the path being generated for debugging
-    const imagePath = `/nft/image/${id}.png`; // Changed from 'images' to 'image' to match your folder structure
-    console.log(`Loading image: ${imagePath}`);
-    return imagePath;
+    return `${base}/nft/images/${id}.png`;
 }
 
 // Function to process metadata into our NFT format
@@ -16,12 +14,12 @@ function processMetadata(metadata: NFTMetadata, id: string): NFT {
 
         const nft: NFT = {
             id,
-            title: metadata.name,
+            title: metadata.title || `NFT #${id}`,
             image: getLocalImagePath(id),
-            description: metadata.description,
-            category: metadata.attributes.find((attr: NFTAttribute) => attr.trait_type === 'BASE')?.value || 'Unknown',
-            created: new Date().toISOString(),
-            attributes: metadata.attributes
+            description: metadata.description || '',
+            category: metadata.category || 'Uncategorized',
+            created: metadata.created || new Date().toISOString().split('T')[0],
+            attributes: metadata.attributes || []
         };
 
         return nft;

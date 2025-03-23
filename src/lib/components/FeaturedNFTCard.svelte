@@ -18,7 +18,7 @@
 <div class="featured-card">
     {#if imageError}
         <div class="image-placeholder">
-            <span>Image Not Available</span>
+            <span>Loading Art...</span>
         </div>
     {:else}
         <img 
@@ -27,9 +27,10 @@
             on:error={handleImageError}
             on:load={handleImageLoad}
             loading="lazy"
+            class={!imageLoaded ? 'loading' : ''}
         />
     {/if}
-    <div class="title-overlay">
+    <div class="title-overlay" class:visible={imageLoaded}>
         <h3>{title}</h3>
     </div>
 </div>
@@ -81,12 +82,13 @@
     .image-placeholder {
         width: 100%;
         aspect-ratio: 1;
-        background: #f0f0f0;
+        background: linear-gradient(45deg, #f0f0f0, #e0e0e0);
         display: flex;
         align-items: center;
         justify-content: center;
         color: #666;
         font-size: 0.9rem;
+        border-radius: 16px;
     }
 
     @media (min-width: 1200px) {
@@ -98,6 +100,9 @@
 
     .loading {
         opacity: 0;
-        transition: opacity 0.3s;
+    }
+
+    .title-overlay.visible {
+        transform: translateY(0);
     }
 </style> 

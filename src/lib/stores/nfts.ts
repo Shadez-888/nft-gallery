@@ -8,7 +8,7 @@ export const nfts = writable<NFT[]>([
 	{
 		id: '1',
 		title: 'Cosmic Dreamer #1',
-		image: `${base}/images/nft1.jpg`,
+		image: `${base}/nft/images/nft1.png`,
 		description: 'A mesmerizing piece from the Cosmic collection',
 		category: 'Abstract',
 		created: '2024-01-15',
@@ -17,7 +17,7 @@ export const nfts = writable<NFT[]>([
 	{
 		id: '2',
 		title: 'Digital Horizon #4',
-		image: `${base}/images/nft2.jpg`,
+		image: `${base}/nft/images/nft2.png`,
 		description: 'Exploring the boundaries of digital art',
 		category: 'Landscape',
 		created: '2024-02-01',
