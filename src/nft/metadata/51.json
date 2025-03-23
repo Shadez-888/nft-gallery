@@ -1,0 +1,32 @@
+{
+  "name": "Shadez #51",
+  "description": "Bring collection focus on art to Abstract",
+  "image": "ipfs://<your-ipfs-cid>/51.png",
+  "external_url": "https://",
+  "attributes": [
+    {
+      "trait_type": "BASE",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "Hoody-Green"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Bowlcut-Green"
+    },
+    {
+      "trait_type": "EYEWEAR",
+      "value": "Glasses-Yellow"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "#d56d6d"
+    }
+  ]
+}

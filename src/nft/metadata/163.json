@@ -1,0 +1,32 @@
+{
+  "name": "Shadez #163",
+  "description": "Bring collection focus on art to Abstract",
+  "image": "ipfs://<your-ipfs-cid>/163.png",
+  "external_url": "https://",
+  "attributes": [
+    {
+      "trait_type": "BASE",
+      "value": "Skin"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Wiggle"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Backwards-Cap-Red"
+    },
+    {
+      "trait_type": "EYEWEAR",
+      "value": "24k-Gold-Blocks"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "#9da050"
+    }
+  ]
+}

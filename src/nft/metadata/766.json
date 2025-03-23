@@ -1,0 +1,32 @@
+{
+  "name": "Shadez #766",
+  "description": "Bring collection focus on art to Abstract",
+  "image": "ipfs://<your-ipfs-cid>/766.png",
+  "external_url": "https://",
+  "attributes": [
+    {
+      "trait_type": "BASE",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "King"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Cowboy-Grey"
+    },
+    {
+      "trait_type": "EYEWEAR",
+      "value": "24k-Gold-Blocks"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "#b381af"
+    }
+  ]
+}

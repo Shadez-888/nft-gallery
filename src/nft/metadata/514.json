@@ -1,0 +1,32 @@
+{
+  "name": "Shadez #514",
+  "description": "Bring collection focus on art to Abstract",
+  "image": "ipfs://<your-ipfs-cid>/514.png",
+  "external_url": "https://",
+  "attributes": [
+    {
+      "trait_type": "BASE",
+      "value": "Skin"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "Hoody-Blue"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Grimase"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Short-Hair-Black"
+    },
+    {
+      "trait_type": "EYEWEAR",
+      "value": "Wayfarers"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "#b1b381"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Shadez #327",
+  "description": "Bring collection focus on art to Abstract",
+  "image": "ipfs://<your-ipfs-cid>/327.png",
+  "external_url": "https://",
+  "attributes": [
+    {
+      "trait_type": "BASE",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "Jump-Suit-Grey"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Puff-Beanie-Blue"
+    },
+    {
+      "trait_type": "EYEWEAR",
+      "value": "Shades-ABS"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "#9e9e9e"
+    }
+  ]
+}

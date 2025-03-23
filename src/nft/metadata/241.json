@@ -1,0 +1,32 @@
+{
+  "name": "Shadez #241",
+  "description": "Bring collection focus on art to Abstract",
+  "image": "ipfs://<your-ipfs-cid>/241.png",
+  "external_url": "https://",
+  "attributes": [
+    {
+      "trait_type": "BASE",
+      "value": "Skin"
+    },
+    {
+      "trait_type": "OUTFIT",
+      "value": "Degen-White"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Wiggle"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Cowboy-Grey"
+    },
+    {
+      "trait_type": "EYEWEAR",
+      "value": "Glasses-Yellow"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "#f2a5ec"
+    }
+  ]
+}
