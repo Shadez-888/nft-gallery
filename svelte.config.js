@@ -2,6 +2,8 @@ import adapter from '@sveltejs/adapter-static';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
 const dev = process.env.NODE_ENV === 'development';
+// Check if using custom domain via environment variable
+const useCustomDomain = process.env.USE_CUSTOM_DOMAIN === 'true';
 
 const config = {
 	kit: {
@@ -13,7 +15,8 @@ const config = {
 			strict: false
 		}),
 		paths: {
-			base: dev ? '' : '/'
+			// Use empty base for custom domain or development, '/nft-gallery' for GitHub Pages
+			base: dev || useCustomDomain ? '' : '/nft-gallery'
 		},
 		prerender: {
 			handleHttpError: ({ path, referrer, message }) => {
