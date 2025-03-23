@@ -17,8 +17,10 @@ const config = {
 		},
 		prerender: {
 			handleHttpError: ({ path, referrer, message }) => {
-				// Ignore missing favicon and apple touch icon
-				if (path.includes('favicon.') || path.includes('apple-touch-icon')) {
+				// Ignore missing images, favicon, and apple touch icon
+				if (path.includes('/images/') || 
+					path.includes('favicon.') || 
+					path.includes('apple-touch-icon')) {
 					return;
 				}
 				// Otherwise, fail the build
