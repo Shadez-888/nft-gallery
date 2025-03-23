@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Skin"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bucket-White"
+      "value": "Cap-Black"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Cobain-Goggles"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#9181b3"
+      "value": "#8ce4a1"
     }
   ]
 }

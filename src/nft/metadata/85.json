@@ -6,15 +6,15 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Turtleneck-Green"
+      "value": "Tortoisneck-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Wiggle"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Cobain-Goggles"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",

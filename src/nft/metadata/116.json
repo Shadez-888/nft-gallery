@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Polar-Puff-Green"
+      "value": "Mechanic"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Flat"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bald"
+      "value": "Straw-Hat-Yellow"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Yellow"
+      "value": "24k-Gold-Blocks"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#81aeb3"
+      "value": "#b38181"
     }
   ]
 }

@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Degen-White"
+      "value": "Naked"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Beanie-orange"
+      "value": "Beanie-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Green"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#c2d3c6"
+      "value": "#81aeb3"
     }
   ]
 }

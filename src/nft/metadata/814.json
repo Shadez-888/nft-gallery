@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Turtleneck-Green"
+      "value": "T-Shirt-Red"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Crown"
+      "value": "Hitai-ate"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "24k-Gold-Blocks"
+      "value": "Bricks-Blue"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b1b381"
+      "value": "#53f87a"
     }
   ]
 }

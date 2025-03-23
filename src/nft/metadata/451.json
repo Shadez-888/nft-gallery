@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Peaky-Green"
+      "value": "Bucket-White"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "24k-Gold-Blocks"
+      "value": "Wayfarers"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b3dde2"
+      "value": "#5d5d5d"
     }
   ]
 }

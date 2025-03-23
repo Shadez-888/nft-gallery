@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Jump-Suit-Grey"
+      "value": "Abstronaut"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Flat"
     },
     {
       "trait_type": "HEAD",
-      "value": "Beanie-Red"
+      "value": "Bowlcut-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Green"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#d56d6d"
+      "value": "#8ce4a1"
     }
   ]
 }

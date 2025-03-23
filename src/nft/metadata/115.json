@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Suit-Red"
+      "value": "Naked"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Tongue"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cap-Green"
+      "value": "Short-Hair-Black"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Green"
+      "value": "Wayfarers"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#81aeb3"
+      "value": "#5d5d5d"
     }
   ]
 }

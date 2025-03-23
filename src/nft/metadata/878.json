@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Hoody-Grey"
+      "value": "Polar-Puff-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Beanie-orange"
+      "value": "Crown"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Yellow"
+      "value": "Glasses-Green"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#9181b3"
+      "value": "#53f87a"
     }
   ]
 }

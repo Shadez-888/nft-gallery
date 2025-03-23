@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Jump-Suit-Blue"
+      "value": "Denim"
     },
     {
       "trait_type": "MOUTH",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Bucket-White"
+      "value": "Straw-Hat-Yellow"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Yellow"
+      "value": "Bricks-Blue"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b3dde2"
+      "value": "#c2d3c6"
     }
   ]
 }

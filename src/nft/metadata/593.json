@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Hoody-Green"
+      "value": "Degen-White"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Sad"
+      "value": "Flat"
     },
     {
       "trait_type": "HEAD",
-      "value": "Backwards-Cap-Red"
+      "value": "Grey-Side-Swept"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "24k-Gold-Blocks"
+      "value": "Glasses-Green"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#d56d6d"
+      "value": "#9da050"
     }
   ]
 }

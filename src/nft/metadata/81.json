@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Suit-Red"
+      "value": "Tortoisneck-Brown"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Flat"
     },
     {
       "trait_type": "HEAD",
-      "value": "Peaky-Red"
+      "value": "Cap-Pink"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Blue"
+      "value": "None"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b1b381"
+      "value": "#b3dde2"
     }
   ]
 }

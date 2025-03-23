@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Punk"
+      "value": "Greaser"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cowboy-Grey"
+      "value": "Backwards-Cap-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Blue"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b1b381"
+      "value": "#b3dde2"
     }
   ]
 }

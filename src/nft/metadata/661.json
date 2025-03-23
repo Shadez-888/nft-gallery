@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Tanktop-Black"
+      "value": "Jump-Suit-Blue"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Wiggle"
+      "value": "Grimase"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cap-Pink"
+      "value": "Peaky-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Blue"
+      "value": "Wayfarers"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#839788"
+      "value": "#b381af"
     }
   ]
 }

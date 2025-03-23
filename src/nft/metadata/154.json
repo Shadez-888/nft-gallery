@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Turtleneck-Green"
+      "value": "Hoody-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Grimase"
     },
     {
       "trait_type": "HEAD",
-      "value": "Straw-Hat-Yellow"
+      "value": "Peaky-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Yellow"
+      "value": "Bricks-Blue"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b381af"
+      "value": "#d56d6d"
     }
   ]
 }

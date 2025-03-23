@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Jump-Suit-Grey"
+      "value": "Polar-Puff-Grey"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cap-Black"
+      "value": "Cap-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Cobain-Goggles"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#53f87a"
+      "value": "#b3dde2"
     }
   ]
 }

@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Skin"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Degen-Grey"
+      "value": "Turtleneck-Red"
     },
     {
       "trait_type": "MOUTH",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Beanie-Red"
+      "value": "Bald"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Green"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#9181b3"
+      "value": "#53f87a"
     }
   ]
 }

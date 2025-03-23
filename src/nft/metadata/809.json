@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Skin"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "MOUTH",
-      "value": "Wiggle"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cap-Pink"
+      "value": "Backwards-Cap-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Sunflower"
+      "value": "None"
     },
     {
       "trait_type": "BACKGROUND",

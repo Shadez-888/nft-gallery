@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Turtleneck-Green"
+      "value": "Tortoisneck-Brown"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Straw-Hat-Yellow"
+      "value": "Cap-Pink"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Green"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#81b38d"
+      "value": "#c2d3c6"
     }
   ]
 }

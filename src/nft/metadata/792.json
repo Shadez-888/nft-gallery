@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Hoody-Green"
+      "value": "Mechanic"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Flat"
     },
     {
       "trait_type": "HEAD",
-      "value": "Crown"
+      "value": "Peaky-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Cobain-Goggles"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#8ce4a1"
+      "value": "#f2a5ec"
     }
   ]
 }

@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Denim"
+      "value": "Punk"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cap-Pink"
+      "value": "Punk-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "24k-Gold-Blocks"
+      "value": "Glasses-Green"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#eb9999"
+      "value": "#d56d6d"
     }
   ]
 }

@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "T-Shirt-Green"
+      "value": "Jump-Suit-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Puff-Beanie-Blue"
+      "value": "Peaky-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "None"
+      "value": "Bricks-Green"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#81b38d"
+      "value": "#5d5d5d"
     }
   ]
 }

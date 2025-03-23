@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Suit-Red"
+      "value": "Mechanic"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Grimase"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bowlcut-Green"
+      "value": "Bucket-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Blue"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#5bbf73"
+      "value": "#9da050"
     }
   ]
 }

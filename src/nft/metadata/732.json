@@ -6,19 +6,19 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Greaser"
+      "value": "T-Shirt-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Peaky-Green"
+      "value": "Short-Hair-Black"
     },
     {
       "trait_type": "EYEWEAR",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#839788"
+      "value": "#53f87a"
     }
   ]
 }

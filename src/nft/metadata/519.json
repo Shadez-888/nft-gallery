@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Turtleneck-Red"
+      "value": "Tortoisneck-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Tongue"
     },
     {
       "trait_type": "HEAD",
-      "value": "Backwards-Cap-Red"
+      "value": "Bucket-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "24k-Gold-Blocks"
+      "value": "Cobain-Goggles"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#c5b8e1"
+      "value": "#b8e1d1"
     }
   ]
 }

@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Tortoisneck-Purple"
+      "value": "Tortoisneck-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Sad"
+      "value": "Tongue"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cap-Black"
+      "value": "Short-Hair-Black"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "None"
+      "value": "Shades-ABS"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#839788"
+      "value": "#c2d3c6"
     }
   ]
 }

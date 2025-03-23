@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Degen-White"
+      "value": "Jump-Suit-Grey"
     },
     {
       "trait_type": "MOUTH",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Bald"
+      "value": "Hitai-ate"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Wayfarers"
+      "value": "Glasses-Green"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#81aeb3"
+      "value": "#d56d6d"
     }
   ]
 }

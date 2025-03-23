@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Abstronaut"
+      "value": "Suit-Blue"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Crown"
+      "value": "Short-Hair-Black"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Cobain-Goggles"
+      "value": "Shades-ABS"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b381af"
+      "value": "#b38181"
     }
   ]
 }

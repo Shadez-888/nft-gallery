@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "King"
+      "value": "Tortoisneck-Purple"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Grimase"
     },
     {
       "trait_type": "HEAD",
-      "value": "Peaky-Green"
+      "value": "Beanie-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Green"
+      "value": "Shades-ABS"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#81aeb3"
+      "value": "#eb9999"
     }
   ]
 }

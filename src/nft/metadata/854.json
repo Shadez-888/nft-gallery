@@ -10,15 +10,15 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Denim"
+      "value": "Punk"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Puff-Beanie-Blue"
+      "value": "Cap-Green"
     },
     {
       "trait_type": "EYEWEAR",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#c2d3c6"
+      "value": "#5d5d5d"
     }
   ]
 }

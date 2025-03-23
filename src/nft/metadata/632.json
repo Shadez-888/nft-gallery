@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Polar-Puff-Red"
+      "value": "Turtleneck-Green"
     },
     {
       "trait_type": "MOUTH",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Bucket-Green"
+      "value": "Hitai-ate"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Blue"
+      "value": "24k-Gold-Blocks"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b1b381"
+      "value": "#b8e1d1"
     }
   ]
 }

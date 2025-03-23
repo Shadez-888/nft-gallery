@@ -6,19 +6,19 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Skin"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Hoody-Green"
+      "value": "Naked"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Beanie-Red"
+      "value": "Punk-Green"
     },
     {
       "trait_type": "EYEWEAR",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#d56d6d"
+      "value": "#c2d3c6"
     }
   ]
 }

@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "T-Shirt-Red"
+      "value": "King"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Wiggle"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bowlcut-Purple"
+      "value": "Beanie-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Green"
+      "value": "Wayfarers"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b3dde2"
+      "value": "#eb9999"
     }
   ]
 }

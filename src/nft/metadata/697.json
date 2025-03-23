@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Puff-Grey"
+      "value": "Tanktop-White"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cap-Black"
+      "value": "Straw-Hat-Yellow"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Yellow"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#839788"
+      "value": "#b8e1d1"
     }
   ]
 }

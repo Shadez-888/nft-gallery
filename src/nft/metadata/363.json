@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Hoody-White"
+      "value": "Naked"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cap-Pink"
+      "value": "Short-Hair-Black"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Cobain-Goggles"
+      "value": "None"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#5d5d5d"
+      "value": "#9da050"
     }
   ]
 }

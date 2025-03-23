@@ -6,15 +6,15 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Tortoisneck-Purple"
+      "value": "Greaser"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
@@ -22,11 +22,11 @@
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "None"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b3dde2"
+      "value": "#b38181"
     }
   ]
 }

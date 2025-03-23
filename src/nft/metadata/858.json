@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Degen-White"
+      "value": "Jump-Suit-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Tongue"
     },
     {
       "trait_type": "HEAD",
-      "value": "Grey-Side-Swept"
+      "value": "Peaky-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Wayfarers"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b38181"
+      "value": "#d56d6d"
     }
   ]
 }

@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Turtleneck-Grey"
+      "value": "Tanktop-Black"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Backwards-Cap-Red"
+      "value": "Beanie-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "24k-Gold-Blocks"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#8ce4a1"
+      "value": "#d56d6d"
     }
   ]
 }

@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Puff-Green"
+      "value": "Polar-Puff-Green"
     },
     {
       "trait_type": "MOUTH",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Puff-Beanie-Blue"
+      "value": "Cap-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Sunflower"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#53f87a"
+      "value": "#f2a5ec"
     }
   ]
 }

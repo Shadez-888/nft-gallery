@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Turtleneck-Red"
+      "value": "Suit-Blue"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Sad"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Grey-Side-Swept"
+      "value": "Cowboy-Brown"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Shades-ABS"
+      "value": "Bricks-Green"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#c5b8e1"
+      "value": "#c2d3c6"
     }
   ]
 }

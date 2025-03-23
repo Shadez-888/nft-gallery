@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "T-Shirt-Blue"
+      "value": "Tanktop-Black"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Beanie-Red"
+      "value": "Beanie-orange"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "24k-Gold-Blocks"
+      "value": "Wayfarers"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b3dde2"
+      "value": "#9181b3"
     }
   ]
 }

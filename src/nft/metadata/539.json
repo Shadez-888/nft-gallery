@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Abstronaut"
+      "value": "T-Shirt-Red"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Sad"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Punk-Green"
+      "value": "Backwards-Cap-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "None"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#839788"
+      "value": "#b8e1d1"
     }
   ]
 }

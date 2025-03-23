@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Abstronaut"
+      "value": "Turtleneck-Red"
     },
     {
       "trait_type": "MOUTH",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Beanie-Red"
+      "value": "Cap-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Sunflower"
+      "value": "24k-Gold-Blocks"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b38181"
+      "value": "#9e9e9e"
     }
   ]
 }

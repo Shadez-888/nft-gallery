@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Denim"
+      "value": "Naked"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Tongue"
     },
     {
       "trait_type": "HEAD",
-      "value": "Peaky-Red"
+      "value": "Bucket-White"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Cobain-Goggles"
+      "value": "None"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#81b38d"
+      "value": "#81aeb3"
     }
   ]
 }

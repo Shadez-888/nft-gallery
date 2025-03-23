@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Skin"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Suit-Blue"
+      "value": "Puff-Grey"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Sad"
+      "value": "Tongue"
     },
     {
       "trait_type": "HEAD",
-      "value": "Backwards-Cap-Red"
+      "value": "Grey-Side-Swept"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Shades-ABS"
+      "value": "Cobain-Goggles"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b381af"
+      "value": "#5bbf73"
     }
   ]
 }

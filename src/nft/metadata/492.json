@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Turtleneck-Green"
+      "value": "Suit-Blue"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Sad"
+      "value": "Tongue"
     },
     {
       "trait_type": "HEAD",
-      "value": "Hitai-ate"
+      "value": "Cap-Black"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Green"
+      "value": "Bricks-Blue"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#81b38d"
+      "value": "#9da050"
     }
   ]
 }

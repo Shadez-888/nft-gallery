@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Jump-Suit-Green"
+      "value": "Jump-Suit-Blue"
     },
     {
       "trait_type": "MOUTH",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Backwards-Cap-Red"
+      "value": "Bald"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Yellow"
+      "value": "Shades-ABS"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#c5b8e1"
+      "value": "#eb9999"
     }
   ]
 }

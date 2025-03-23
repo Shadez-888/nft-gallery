@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Mechanic"
+      "value": "Polar-Puff-Grey"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Sad"
+      "value": "Tongue"
     },
     {
       "trait_type": "HEAD",
-      "value": "Punk-Green"
+      "value": "Puff-Beanie-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "24k-Gold-Blocks"
+      "value": "Wayfarers"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b38181"
+      "value": "#81aeb3"
     }
   ]
 }

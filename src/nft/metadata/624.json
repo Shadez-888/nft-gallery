@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Skin"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Jump-Suit-Blue"
+      "value": "Tortoisneck-Brown"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Sad"
+      "value": "Grimase"
     },
     {
       "trait_type": "HEAD",
-      "value": "Backwards-Cap-Red"
+      "value": "Straw-Hat-Yellow"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "None"
+      "value": "Bricks-Blue"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#81aeb3"
+      "value": "#b8e1d1"
     }
   ]
 }

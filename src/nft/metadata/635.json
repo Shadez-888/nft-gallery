@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Skin"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Suit-Red"
+      "value": "Punk"
     },
     {
       "trait_type": "MOUTH",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Peaky-Red"
+      "value": "Straw-Hat-Yellow"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Wayfarers"
+      "value": "Bricks-Blue"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#eb9999"
+      "value": "#9181b3"
     }
   ]
 }

@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Suit-Blue"
+      "value": "Jump-Suit-Green"
     },
     {
       "trait_type": "MOUTH",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Cap-Green"
+      "value": "Punk-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Shades-ABS"
+      "value": "Bricks-Blue"
     },
     {
       "trait_type": "BACKGROUND",

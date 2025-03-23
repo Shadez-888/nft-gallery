@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Mechanic"
+      "value": "Jump-Suit-Grey"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cowboy-Grey"
+      "value": "Hitai-ate"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Green"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b38181"
+      "value": "#839788"
     }
   ]
 }

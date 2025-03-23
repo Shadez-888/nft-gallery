@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Abstronaut"
+      "value": "Jump-Suit-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Greaser"
+      "value": "Beanie-orange"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "24k-Gold-Blocks"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#f2a5ec"
+      "value": "#8ce4a1"
     }
   ]
 }

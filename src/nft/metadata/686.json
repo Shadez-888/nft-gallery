@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Suit-Red"
+      "value": "Hoody-Blue"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Tongue"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bucket-White"
+      "value": "Peaky-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Green"
+      "value": "Shades-ABS"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#81b38d"
+      "value": "#8ce4a1"
     }
   ]
 }

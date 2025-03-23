@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Skin"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Mechanic"
+      "value": "Degen-Grey"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bowlcut-Green"
+      "value": "Short-Hair-Black"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Wayfarers"
+      "value": "24k-Gold-Blocks"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b1b381"
+      "value": "#c5b8e1"
     }
   ]
 }

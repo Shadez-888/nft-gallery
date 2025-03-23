@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Hoody-White"
+      "value": "Turtleneck-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Straw-Hat-Yellow"
+      "value": "Bald"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Shades-ABS"
+      "value": "24k-Gold-Blocks"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b3dde2"
+      "value": "#f2a5ec"
     }
   ]
 }

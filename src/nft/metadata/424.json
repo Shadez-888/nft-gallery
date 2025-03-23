@@ -6,15 +6,15 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Jump-Suit-Blue"
+      "value": "Tortoisneck-Purple"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
@@ -22,11 +22,11 @@
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Shades-ABS"
+      "value": "Wayfarers"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b38181"
+      "value": "#9181b3"
     }
   ]
 }

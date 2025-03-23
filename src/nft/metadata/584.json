@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Naked"
+      "value": "Polar-Puff-Red"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bucket-White"
+      "value": "Bald"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "None"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#839788"
+      "value": "#81b38d"
     }
   ]
 }

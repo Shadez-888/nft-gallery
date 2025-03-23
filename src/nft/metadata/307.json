@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "T-Shirt-Green"
+      "value": "Puff-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Grimase"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bald"
+      "value": "Beanie-orange"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "24k-Gold-Blocks"
+      "value": "Glasses-Green"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#eb9999"
+      "value": "#b8e1d1"
     }
   ]
 }

@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Tortoisneck-Green"
+      "value": "King"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Peaky-Red"
+      "value": "Beanie-orange"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Green"
+      "value": "Glasses-Green"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b38181"
+      "value": "#53f87a"
     }
   ]
 }

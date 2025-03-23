@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Tortoisneck-Green"
+      "value": "Polar-Puff-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Wiggle"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cowboy-Brown"
+      "value": "Bowlcut-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Green"
+      "value": "24k-Gold-Blocks"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#9181b3"
+      "value": "#5bbf73"
     }
   ]
 }

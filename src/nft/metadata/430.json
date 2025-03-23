@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Polar-Puff-Green"
+      "value": "Denim"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Flat"
     },
     {
       "trait_type": "HEAD",
-      "value": "Hitai-ate"
+      "value": "Bowlcut-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Wayfarers"
+      "value": "Glasses-Green"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#c5b8e1"
+      "value": "#b8e1d1"
     }
   ]
 }

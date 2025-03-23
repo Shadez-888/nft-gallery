@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Hoody-Blue"
+      "value": "Turtleneck-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Sad"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Straw-Hat-Yellow"
+      "value": "Grey-Side-Swept"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Blue"
+      "value": "None"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#eb9999"
+      "value": "#b8e1d1"
     }
   ]
 }

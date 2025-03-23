@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Punk"
+      "value": "Suit-Blue"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bowlcut-Green"
+      "value": "Bucket-White"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Sunflower"
+      "value": "Bricks-Blue"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b381af"
+      "value": "#5d5d5d"
     }
   ]
 }

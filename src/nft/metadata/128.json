@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Punk"
+      "value": "Polar-Puff-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Tongue"
     },
     {
       "trait_type": "HEAD",
-      "value": "Beanie-orange"
+      "value": "Backwards-Cap-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Green"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#9181b3"
+      "value": "#b1b381"
     }
   ]
 }

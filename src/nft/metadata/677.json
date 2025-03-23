@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Tortoisneck-Purple"
+      "value": "Turtleneck-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Straw-Hat-Yellow"
+      "value": "Cowboy-Grey"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Sunflower"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b3dde2"
+      "value": "#b38181"
     }
   ]
 }

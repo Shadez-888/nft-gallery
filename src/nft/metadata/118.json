@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Tanktop-Black"
+      "value": "Naked"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cowboy-Grey"
+      "value": "Short-Hair-Black"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Green"
+      "value": "Shades-ABS"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#c5b8e1"
+      "value": "#5d5d5d"
     }
   ]
 }

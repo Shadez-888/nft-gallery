@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Polar-Puff-Green"
+      "value": "Puff-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bucket-White"
+      "value": "Short-Hair-Black"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "24k-Gold-Blocks"
+      "value": "Cobain-Goggles"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#c2d3c6"
+      "value": "#5d5d5d"
     }
   ]
 }

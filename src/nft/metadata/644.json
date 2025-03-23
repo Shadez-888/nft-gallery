@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Abstronaut"
+      "value": "Turtleneck-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Flat"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bald"
+      "value": "Beanie-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "None"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b381af"
+      "value": "#8ce4a1"
     }
   ]
 }

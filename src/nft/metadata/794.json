@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "MOUTH",
-      "value": "Wiggle"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Backwards-Cap-Green"
+      "value": "Cap-Black"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Green"
+      "value": "None"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#5d5d5d"
+      "value": "#9181b3"
     }
   ]
 }

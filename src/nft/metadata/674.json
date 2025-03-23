@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Turtleneck-Green"
+      "value": "Turtleneck-Grey"
     },
     {
       "trait_type": "MOUTH",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Puff-Beanie-Blue"
+      "value": "Cowboy-Grey"
     },
     {
       "trait_type": "EYEWEAR",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#c5b8e1"
+      "value": "#b1b381"
     }
   ]
 }

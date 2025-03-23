@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Tanktop-White"
+      "value": "Polar-Puff-Grey"
     },
     {
       "trait_type": "MOUTH",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Short-Hair-Black"
+      "value": "Crown"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Yellow"
+      "value": "None"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#9da050"
+      "value": "#81b38d"
     }
   ]
 }

@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Tanktop-Black"
+      "value": "Polar-Puff-Green"
     },
     {
       "trait_type": "MOUTH",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Cowboy-Brown"
+      "value": "Bucket-Green"
     },
     {
       "trait_type": "EYEWEAR",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#9181b3"
+      "value": "#9da050"
     }
   ]
 }

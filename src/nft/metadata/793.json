@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Abstronaut"
+      "value": "Punk"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Punk-Red"
+      "value": "Peaky-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Shades-ABS"
+      "value": "None"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b8e1d1"
+      "value": "#f2a5ec"
     }
   ]
 }

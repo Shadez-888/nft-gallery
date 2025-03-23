@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Puff-Green"
+      "value": "Jump-Suit-Blue"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Flat"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bowlcut-Purple"
+      "value": "Cowboy-Grey"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Green"
+      "value": "Wayfarers"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#81b38d"
+      "value": "#eb9999"
     }
   ]
 }

@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Naked"
+      "value": "Greaser"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Beanie-Red"
+      "value": "Backwards-Cap-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Cobain-Goggles"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#9181b3"
+      "value": "#5d5d5d"
     }
   ]
 }

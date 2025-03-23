@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Polar-Puff-Grey"
+      "value": "Polar-Puff-Green"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Wiggle"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Grey-Side-Swept"
+      "value": "Hitai-ate"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Shades-ABS"
+      "value": "None"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b3dde2"
+      "value": "#5bbf73"
     }
   ]
 }

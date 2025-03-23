@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Hoody-White"
+      "value": "Polar-Puff-Grey"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Wiggle"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bucket-Green"
+      "value": "Cap-Black"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Blue"
+      "value": "Bricks-Green"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#d56d6d"
+      "value": "#81aeb3"
     }
   ]
 }

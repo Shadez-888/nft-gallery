@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Hoody-Grey"
+      "value": "Degen-White"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Wiggle"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bowlcut-Purple"
+      "value": "Backwards-Cap-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Green"
+      "value": "24k-Gold-Blocks"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#53f87a"
+      "value": "#b8e1d1"
     }
   ]
 }

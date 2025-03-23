@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Hoody-Green"
+      "value": "Polar-Puff-Green"
     },
     {
       "trait_type": "MOUTH",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Beanie-Red"
+      "value": "Bald"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Wayfarers"
+      "value": "Glasses-Green"
     },
     {
       "trait_type": "BACKGROUND",

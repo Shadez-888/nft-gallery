@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Jump-Suit-Green"
+      "value": "Degen-White"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Hitai-ate"
+      "value": "Short-Hair-Black"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Cobain-Goggles"
+      "value": "Glasses-Green"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#8ce4a1"
+      "value": "#81b38d"
     }
   ]
 }

@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Jump-Suit-Blue"
+      "value": "Suit-Red"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Smile"
     },
     {
       "trait_type": "HEAD",
-      "value": "Punk-Red"
+      "value": "Greaser"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Green"
+      "value": "Cobain-Goggles"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#8ce4a1"
+      "value": "#b38181"
     }
   ]
 }

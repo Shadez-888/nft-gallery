@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Suit-Red"
+      "value": "Turtleneck-Red"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Grimase"
     },
     {
       "trait_type": "HEAD",
-      "value": "Hitai-ate"
+      "value": "Backwards-Cap-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Green"
+      "value": "Wayfarers"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b381af"
+      "value": "#b38181"
     }
   ]
 }

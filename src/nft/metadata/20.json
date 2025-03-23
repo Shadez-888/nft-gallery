@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Jump-Suit-Grey"
+      "value": "Denim"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Flat"
     },
     {
       "trait_type": "HEAD",
-      "value": "Puff-Beanie-Green"
+      "value": "Punk-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Wayfarers"
+      "value": "24k-Gold-Blocks"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#5d5d5d"
+      "value": "#c5b8e1"
     }
   ]
 }

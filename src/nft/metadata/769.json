@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "T-Shirt-Green"
+      "value": "King"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Wiggle"
+      "value": "Grimase"
     },
     {
       "trait_type": "HEAD",
-      "value": "Punk-Green"
+      "value": "Crown"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "None"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b1b381"
+      "value": "#b8e1d1"
     }
   ]
 }

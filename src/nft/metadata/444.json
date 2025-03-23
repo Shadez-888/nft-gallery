@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Greaser"
+      "value": "Suit-Red"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Sad"
     },
     {
       "trait_type": "HEAD",
-      "value": "Bald"
+      "value": "Puff-Beanie-Green"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Sunflower"
+      "value": "None"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b1b381"
+      "value": "#c2d3c6"
     }
   ]
 }

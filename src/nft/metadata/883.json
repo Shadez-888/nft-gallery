@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Mechanic"
+      "value": "Degen-White"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Wiggle"
     },
     {
       "trait_type": "HEAD",
-      "value": "Punk-Green"
+      "value": "Hitai-ate"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Wayfarers"
+      "value": "Sunflower"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#c5b8e1"
+      "value": "#b1b381"
     }
   ]
 }

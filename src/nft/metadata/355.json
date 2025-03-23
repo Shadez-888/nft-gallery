@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Tanktop-White"
+      "value": "T-Shirt-Blue"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Wiggle"
+      "value": "Flat"
     },
     {
       "trait_type": "HEAD",
-      "value": "Greaser"
+      "value": "Bowlcut-Purple"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Green"
+      "value": "Bricks-Blue"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#81aeb3"
+      "value": "#b381af"
     }
   ]
 }

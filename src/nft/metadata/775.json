@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Ocean"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Hoody-Blue"
+      "value": "Hoody-White"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Grimase"
+      "value": "Flat"
     },
     {
       "trait_type": "HEAD",
-      "value": "Peaky-Green"
+      "value": "Hitai-ate"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Bricks-Green"
+      "value": "Glasses-Green"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b8e1d1"
+      "value": "#b1b381"
     }
   ]
 }

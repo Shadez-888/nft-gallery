@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Ice"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Suit-Green"
+      "value": "Puff-Grey"
     },
     {
       "trait_type": "MOUTH",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "HEAD",
-      "value": "Backwards-Cap-Red"
+      "value": "Beanie-orange"
     },
     {
       "trait_type": "EYEWEAR",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b1b381"
+      "value": "#c5b8e1"
     }
   ]
 }

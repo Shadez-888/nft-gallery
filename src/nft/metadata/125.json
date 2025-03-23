@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ocean"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "MOUTH",
-      "value": "Tongue"
+      "value": "Grimase"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cap-Black"
+      "value": "Backwards-Cap-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Cobain-Goggles"
+      "value": "Glasses-Yellow"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b1b381"
+      "value": "#c2d3c6"
     }
   ]
 }

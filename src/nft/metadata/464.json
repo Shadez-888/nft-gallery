@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Stone"
+      "value": "Skin"
     },
     {
       "trait_type": "OUTFIT",
-      "value": "King"
+      "value": "Degen-Grey"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Wiggle"
+      "value": "Flat"
     },
     {
       "trait_type": "HEAD",
-      "value": "Cap-Black"
+      "value": "Punk-Red"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Glasses-Yellow"
+      "value": "Shades-ABS"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#c2d3c6"
+      "value": "#81aeb3"
     }
   ]
 }

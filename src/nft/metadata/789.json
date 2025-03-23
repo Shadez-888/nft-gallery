@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "OUTFIT",
-      "value": "Jump-Suit-Green"
+      "value": "Degen-White"
     },
     {
       "trait_type": "MOUTH",
-      "value": "Flat"
+      "value": "Tongue"
     },
     {
       "trait_type": "HEAD",
-      "value": "Beanie-Red"
+      "value": "Bald"
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Shades-ABS"
+      "value": "Bricks-Blue"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#9e9e9e"
+      "value": "#b3dde2"
     }
   ]
 }

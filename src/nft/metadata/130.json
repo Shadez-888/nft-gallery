@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "BASE",
-      "value": "Ice"
+      "value": "Stone"
     },
     {
       "trait_type": "OUTFIT",
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "MOUTH",
-      "value": "Smile"
+      "value": "Tongue"
     },
     {
       "trait_type": "HEAD",
@@ -22,11 +22,11 @@
     },
     {
       "trait_type": "EYEWEAR",
-      "value": "Wayfarers"
+      "value": "Cobain-Goggles"
     },
     {
       "trait_type": "BACKGROUND",
-      "value": "#b3dde2"
+      "value": "#b1b381"
     }
   ]
 }
