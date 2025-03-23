@@ -33,8 +33,10 @@
 	<div class="error">{error}</div>
 {:else}
 	<section class="hero">
-		<h1 class="title">Shadez on Abstract</h1>
-		<p>Discover unique digital art pieces made with passion</p>
+		<div class="hero-content">
+			<h1 class="title">Shadez on Abstract</h1>
+			<p>Discover unique digital art pieces made with passion</p>
+		</div>
 	</section>
 
 	<section class="featured">
@@ -52,54 +54,63 @@
 
 <style>
 	.hero {
+		padding: 0.5rem;
+		margin-bottom: 1rem;
+		width: 100%;
+	}
+
+	.hero-content {
+		background: var(--primary);
+		border-radius: 16px;
+		padding: 5rem 1rem;
 		text-align: center;
-		padding: clamp(3rem, 8vw, 5rem) 1rem;
-		background: linear-gradient(135deg, var(--primary), var(--primary-dark));
-		color: white;
-		border-radius: 20px;
-		margin: 1rem;
+		width: 100%;
 	}
 
 	.title {
+		color: white;
+		font-size: min(12vw, 7rem);
+		font-weight: 900;
+		margin: 0;
 		white-space: nowrap;
-		font-size: clamp(2.5rem, 8vw, 6rem);
-		margin: 0 0 1rem 0;
-		font-weight: 800;
 		letter-spacing: -0.02em;
-		line-height: 1.1;
+		line-height: 1;
 	}
 
 	p {
-		font-size: clamp(1.2rem, 2vw, 1.6rem);
 		color: white;
+		font-size: min(3vw, 1.5rem);
 		opacity: 0.9;
-		max-width: 800px;
-		margin: 0 auto;
+		margin: 0;
+		padding-top: 0.75rem;
 	}
 
 	.featured {
-		margin-top: 3rem;
+		padding: 2rem 1rem;
+		width: 100%;
+		max-width: 1400px;
+		margin: 0 auto;
+	}
+
+	h2 {
+		font-size: min(6vw, 2.5rem);
+		text-align: center;
+		color: var(--primary-dark);
+		margin-bottom: 2rem;
 	}
 
 	.grid {
 		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-		gap: 2rem;
-		margin-top: 2rem;
-	}
-
-	h2 {
-		font-size: 3rem;
-		text-align: center;
-		color: var(--primary-dark);
-		margin-bottom: 3rem;
+		grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+		gap: 1.5rem;
+		width: 100%;
 	}
 
 	.loading {
 		text-align: center;
 		padding: 2rem;
 		font-size: 1.2rem;
-		color: #666;
+		color: var(--text);
 	}
 
 	.error {
@@ -108,18 +119,16 @@
 		color: #e74c3c;
 		background: #fde8e7;
 		border-radius: 8px;
-		margin: 2rem 0;
+		margin: 2rem;
 	}
 
-	@media (max-width: 1024px) {
-		.grid {
-			grid-template-columns: repeat(2, 1fr);
+	@media (max-width: 768px) {
+		.hero-content {
+			padding: 4rem 1rem;
 		}
-	}
-
-	@media (max-width: 640px) {
-		.grid {
-			grid-template-columns: 1fr;
+		
+		.title {
+			font-size: 9vw;
 		}
 	}
 </style>
