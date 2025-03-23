@@ -33,7 +33,7 @@
 	<div class="error">{error}</div>
 {:else}
 	<section class="hero">
-		<h1>Shadez on Abstract</h1>
+		<h1 class="title">Shadez on Abstract</h1>
 		<p>Discover unique digital art pieces made with passion</p>
 	</section>
 
@@ -57,26 +57,24 @@
 		background: linear-gradient(135deg, var(--primary), var(--primary-dark));
 		color: white;
 		border-radius: 20px;
-		margin-bottom: 3rem;
+		margin: 1rem;
 	}
 
-	.hero h1 {
+	.title {
+		white-space: nowrap;
 		font-size: clamp(2.5rem, 8vw, 6rem);
-		margin-bottom: clamp(0.5rem, 2vw, 1.5rem);
+		margin: 0 0 1rem 0;
 		font-weight: 800;
 		letter-spacing: -0.02em;
 		line-height: 1.1;
 	}
 
-	.hero p {
-		font-size: clamp(1rem, 2vw, 1.4rem);
+	p {
+		font-size: clamp(1.2rem, 2vw, 1.6rem);
+		color: white;
 		opacity: 0.9;
 		max-width: 800px;
 		margin: 0 auto;
-	}
-
-	.hero h1, .hero p {
-		transition: font-size 0.3s ease;
 	}
 
 	.featured {
