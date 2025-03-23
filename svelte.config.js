@@ -14,6 +14,16 @@ const config = {
 		}),
 		paths: {
 			base: dev ? '' : '/nft-gallery'
+		},
+		prerender: {
+			handleHttpError: ({ path, referrer, message }) => {
+				// Ignore missing favicon and apple touch icon
+				if (path.includes('favicon.') || path.includes('apple-touch-icon')) {
+					return;
+				}
+				// Otherwise, fail the build
+				throw new Error(message);
+			}
 		}
 	},
 	preprocess: vitePreprocess()
