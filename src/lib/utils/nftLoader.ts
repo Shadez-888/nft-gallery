@@ -3,7 +3,7 @@ import { base } from '$app/paths';
 
 // Function to get local image path and verify file existence
 function getLocalImagePath(id: string): string {
-    return `${base}/nft/images/${id}.png`;
+    return `${base}/nft/image/${id}.png`;
 }
 
 // Function to process metadata into our NFT format
