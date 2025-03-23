@@ -14,7 +14,7 @@ function processMetadata(metadata: NFTMetadata, id: string): NFT {
 
         const nft: NFT = {
             id,
-            title: metadata.title || `NFT #${id}`,
+            title: `Shadez #${id}`,
             image: getLocalImagePath(id),
             description: metadata.description || '',
             category: metadata.category || 'Uncategorized',

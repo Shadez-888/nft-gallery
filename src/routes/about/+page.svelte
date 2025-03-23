@@ -1,16 +1,13 @@
 <script lang="ts">
 	const collectionInfo = {
-		name: "Digital Dreams Collection",
-		artist: "Your Name",
-		established: "2024",
-		description: "A curated collection of unique digital artworks exploring themes of technology, nature, and human consciousness."
+		name: "Shadez Collection",
+		description: "A digital drawing collection, focusing on Art and launch on Abstract blockchain."
 	};
 </script>
 
 <div class="about-container">
 	<section class="about-hero">
 		<h1>{collectionInfo.name}</h1>
-		<p class="subtitle">By {collectionInfo.artist}</p>
 	</section>
 
 	<section class="about-content">
@@ -20,11 +17,12 @@
 		</div>
 
 		<div class="info-card">
-			<h2>Artist Statement</h2>
+			<h2>Vision</h2>
 			<p>
-				As a digital artist, I explore the intersection of technology and creativity,
-				pushing the boundaries of what's possible in the digital realm. Each piece
-				in this collection represents a unique moment of inspiration and innovation.
+				Shadez want to bring the art of drawing to the blockchain.
+				Each Shadez is a unique combination of traits,
+				each trait is a drawing to create a unique piece of art.
+				Shadez dont want to be made BS promises, they are pure art.
 			</p>
 		</div>
 
@@ -33,9 +31,9 @@
 			<p>
 				For inquiries about the collection or individual pieces, please reach out:
 				<br>
-				Email: your.email@example.com
+				Email: shadezonabs@proton.me
 				<br>
-				Twitter: @yourhandle
+				Twitter: @ShadezOnAbs
 			</p>
 		</div>
 	</section>

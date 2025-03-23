@@ -30,79 +30,44 @@
             class={!imageLoaded ? 'loading' : ''}
         />
     {/if}
-    <div class="title-overlay" class:visible={imageLoaded}>
-        <h3>{title}</h3>
-    </div>
 </div>
 
 <style>
     .featured-card {
         position: relative;
-        border-radius: 24px;
+        border-radius: 16px;
         overflow: hidden;
-        box-shadow: 0 8px 30px rgba(91, 191, 115, 0.2);
-        transition: transform 0.3s;
-        padding: 0.5rem;
+        aspect-ratio: 1;
         background: var(--card-bg);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
 
     .featured-card:hover {
-        transform: translateY(-12px);
+        transform: translateY(-8px);
+        box-shadow: 0 8px 30px rgba(91, 191, 115, 0.2);
     }
 
     img {
         width: 100%;
         height: 100%;
         object-fit: cover;
-        display: block;
         border-radius: 16px;
-        aspect-ratio: 1;
-        opacity: 1;
-        transition: opacity 0.3s;
+        transition: opacity 0.3s ease;
     }
 
-    .title-overlay {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
-        padding: 2rem;
-        transform: translateY(100%);
-        transition: transform 0.3s;
-    }
-
-    h3 {
-        color: white;
-        font-size: 1.5rem;
-        margin: 0;
-        text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    img.loading {
+        opacity: 0;
     }
 
     .image-placeholder {
         width: 100%;
-        aspect-ratio: 1;
-        background: linear-gradient(45deg, #f0f0f0, #e0e0e0);
+        height: 100%;
         display: flex;
         align-items: center;
         justify-content: center;
+        background: linear-gradient(45deg, #f0f0f0, #e0e0e0);
+        border-radius: 16px;
         color: #666;
         font-size: 0.9rem;
-        border-radius: 16px;
-    }
-
-    @media (min-width: 1200px) {
-        .featured-card {
-            min-height: 400px;
-            padding: 0.75rem;
-        }
-    }
-
-    .loading {
-        opacity: 0;
-    }
-
-    .title-overlay.visible {
-        transform: translateY(0);
     }
 </style> 

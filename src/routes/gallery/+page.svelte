@@ -1,23 +1,32 @@
 <script lang="ts">
-	import { nfts } from '$lib/stores/nfts';
+	import { onMount } from 'svelte';
+	import { nfts, initializeNFTStore } from '$lib/stores/nfts';
 	import NFTCard from '$lib/components/NFTCard.svelte';
 	import type { NFT } from '$lib/types';
 	
 	let searchTerm = '';
-	let selectedCategory = 'All';
 	let currentPage = 1;
 	const itemsPerPage = 40;
-	
-	// Get unique categories from NFTs
-	$: categories = ['All', ...new Set($nfts.map(nft => nft.category))];
-	
-	// Filter NFTs based on search and category
-	$: filteredNFTs = $nfts.filter((nft: NFT) => {
-		const matchesSearch = nft.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-							nft.description.toLowerCase().includes(searchTerm.toLowerCase());
-		const matchesCategory = selectedCategory === 'All' || nft.category === selectedCategory;
-		return matchesSearch && matchesCategory;
+	let loading = true;
+	let error: string | null = null;
+
+	// Initialize the store when the component mounts
+	onMount(async () => {
+		try {
+			await initializeNFTStore();
+		} catch (e) {
+			error = e instanceof Error ? e.message : 'Failed to load NFTs';
+		} finally {
+			loading = false;
+		}
 	});
+	
+	// Filter NFTs by search term only
+	$: filteredNFTs = $nfts
+		.filter((nft: NFT) => {
+			return nft.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+				   nft.description.toLowerCase().includes(searchTerm.toLowerCase());
+		});
 
 	// Calculate pagination
 	$: totalPages = Math.ceil(filteredNFTs.length / itemsPerPage);
@@ -26,19 +35,9 @@
 		currentPage * itemsPerPage
 	);
 
-	// Navigation functions
-	function nextPage() {
-		if (currentPage < totalPages) currentPage++;
-	}
-
-	function previousPage() {
-		if (currentPage > 1) currentPage--;
-	}
-
-	// Reset to first page when filters change
+	// Reset to first page when search changes
 	$: {
 		searchTerm;
-		selectedCategory;
 		currentPage = 1;
 	}
 </script>
@@ -48,115 +47,95 @@
 		<input
 			type="text"
 			bind:value={searchTerm}
-			placeholder="Search NFTs..."
+			placeholder="Search Shadez..."
 			class="search-input"
 		/>
-		
-		<select bind:value={selectedCategory} class="category-select">
-			{#each categories as category}
-				<option value={category}>{category}</option>
+	</div>
+
+	{#if loading}
+		<div class="loading">Loading NFTs...</div>
+	{:else if error}
+		<div class="error">{error}</div>
+	{:else}
+		<div class="nft-grid">
+			{#each paginatedNFTs as nft}
+				<NFTCard {...nft} />
 			{/each}
-		</select>
-	</div>
-
-	<div class="gallery-grid">
-		{#each paginatedNFTs as nft (nft.id)}
-			<NFTCard {...nft} />
-		{/each}
-	</div>
-
-	{#if totalPages > 1}
-		<div class="pagination">
-			<button 
-				class="pagination-btn" 
-				disabled={currentPage === 1}
-				on:click={previousPage}
-			>
-				Previous
-			</button>
-			<span class="page-info">Page {currentPage} of {totalPages}</span>
-			<button 
-				class="pagination-btn" 
-				disabled={currentPage === totalPages}
-				on:click={nextPage}
-			>
-				Next
-			</button>
 		</div>
+
+		{#if totalPages > 1}
+			<div class="pagination">
+				<button 
+					on:click={() => currentPage--}
+					disabled={currentPage === 1}
+				>Previous</button>
+				
+				<span>{currentPage} of {totalPages}</span>
+				
+				<button 
+					on:click={() => currentPage++}
+					disabled={currentPage === totalPages}
+				>Next</button>
+			</div>
+		{/if}
 	{/if}
 </div>
 
 <style>
 	.gallery-container {
-		padding: 2rem 0;
+		padding: 1rem;
 	}
 
 	.filters {
-		display: flex;
-		gap: 1rem;
 		margin-bottom: 2rem;
 	}
 
-	.search-input,
-	.category-select {
-		padding: 0.75rem 1.25rem;
-		border: 2px solid var(--primary-light);
-		border-radius: 12px;
+	.search-input {
+		width: 100%;
+		padding: 0.75rem 1rem;
+		border: 1px solid var(--primary-light);
+		border-radius: 8px;
 		font-size: 1rem;
-		font-family: 'Outfit', sans-serif;
-		transition: border-color 0.2s;
+		max-width: 600px;
 	}
 
-	.search-input:focus,
-	.category-select:focus {
-		outline: none;
-		border-color: var(--primary);
-	}
-
-	.gallery-grid {
+	.nft-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
 		gap: 2rem;
-		margin-bottom: 2rem;
+		grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+	}
+
+	.loading, .error {
+		text-align: center;
+		padding: 2rem;
+		font-size: 1.2rem;
+		color: var(--text);
+	}
+
+	.error {
+		color: #ff3e3e;
 	}
 
 	.pagination {
+		margin-top: 2rem;
 		display: flex;
 		justify-content: center;
 		align-items: center;
 		gap: 1rem;
-		margin-top: 2rem;
 	}
 
-	.pagination-btn {
-		padding: 0.75rem 1.5rem;
-		border: none;
+	button {
+		padding: 0.5rem 1rem;
 		background: var(--primary);
 		color: white;
-		border-radius: 12px;
+		border: none;
+		border-radius: 8px;
 		cursor: pointer;
-		font-size: 1rem;
-		font-family: 'Outfit', sans-serif;
-		transition: background 0.2s;
+		transition: opacity 0.2s;
 	}
 
-	.pagination-btn:not(:disabled):hover {
-		background: var(--primary-dark);
-	}
-
-	.pagination-btn:disabled {
-		background: var(--primary-light);
-		opacity: 0.7;
-	}
-
-	.page-info {
-		font-size: 1.1rem;
-		color: var(--text-light);
-	}
-
-	@media (max-width: 640px) {
-		.filters {
-			flex-direction: column;
-		}
+	button:disabled {
+		opacity: 0.5;
+		cursor: not-allowed;
 	}
 </style> 

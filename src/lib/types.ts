@@ -19,4 +19,6 @@ export interface NFTMetadata {
 	image: string;
 	external_url: string;
 	attributes: NFTAttribute[];
+	category?: string;
+	created?: string;
 } 

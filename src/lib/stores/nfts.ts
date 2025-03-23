@@ -7,7 +7,7 @@ import { base } from '$app/paths';
 export const nfts = writable<NFT[]>([
 	{
 		id: '1',
-		title: 'Cosmic Dreamer #1',
+		title: 'Shadez #1',
 		image: `${base}/nft/image/nft1.png`,
 		description: 'A mesmerizing piece from the Cosmic collection',
 		category: 'Abstract',
@@ -16,7 +16,7 @@ export const nfts = writable<NFT[]>([
 	},
 	{
 		id: '2',
-		title: 'Digital Horizon #4',
+		title: 'Shadez #2',
 		image: `${base}/nft/image/nft2.png`,
 		description: 'Exploring the boundaries of digital art',
 		category: 'Landscape',
@@ -30,4 +30,17 @@ export const nfts = writable<NFT[]>([
 export async function initializeNFTStore() {
 	const loadedNFTs = await loadNFTMetadata();
 	nfts.set(loadedNFTs);
+}
+
+// If you're generating additional NFTs dynamically, update the title format:
+for (let i = 3; i <= 12; i++) {
+	nfts.update(current => [...current, {
+		id: i.toString(),
+		title: `Shadez #${i}`, // Updated format
+		image: `${base}/nft/image/nft${i}.png`,
+		description: `Generated Shadez #${i}`,
+		category: 'Generated',
+		created: new Date().toISOString().split('T')[0],
+		attributes: [{ trait_type: 'BASE', value: 'Generated' }]
+	}]);
 } 
