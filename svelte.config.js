@@ -17,7 +17,7 @@ const config = {
 		},
 		prerender: {
 			handleHttpError: ({ path, referrer, message }) => {
-				// Ignore missing images, favicon, and apple touch icon
+				// Updated to match the correct image path
 				if (path.includes('/nft/image/') || 
 					path.includes('favicon.') || 
 					path.includes('apple-touch-icon')) {
