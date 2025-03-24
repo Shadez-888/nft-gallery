@@ -5,9 +5,16 @@
 
 <header>
 	<nav>
-		<a href="{base}/">Home</a>
-		<a href="{base}/gallery">Gallery</a>
-		<a href="{base}/about">About</a>
+		<div class="logo">
+			<a href="{base}/">
+				<img src="{base}/SHD-Logo.png" alt="Shadez Logo" />
+			</a>
+		</div>
+		<div class="nav-links">
+			<a href="{base}/">Home</a>
+			<a href="{base}/gallery">Gallery</a>
+			<a href="{base}/about">About</a>
+		</div>
 	</nav>
 </header>
 
@@ -30,10 +37,21 @@
 		max-width: 1200px;
 		margin: 0 auto;
 		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.logo img {
+		height: 40px;
+		width: auto;
+	}
+
+	.nav-links {
+		display: flex;
 		gap: 2rem;
 	}
 
-	nav a {
+	.nav-links a {
 		color: var(--text);
 		text-decoration: none;
 		font-weight: 500;
@@ -42,9 +60,23 @@
 		transition: all 0.2s;
 	}
 
-	nav a:hover {
+	.nav-links a:hover {
 		background: var(--primary-light);
 		color: var(--card-bg);
+	}
+
+	@media (max-width: 768px) {
+		nav {
+			padding: 0 1rem;
+		}
+		
+		.logo img {
+			height: 32px;
+		}
+		
+		.nav-links {
+			gap: 1rem;
+		}
 	}
 
 	main {
