@@ -42,6 +42,7 @@
 	}
 </script>
 
+<!--
 <div class="gallery-container">
 	<div class="filters">
 		<input
@@ -80,8 +81,27 @@
 		{/if}
 	{/if}
 </div>
+-->
+<div class="soon-container">
+	<h1>SOOOON...!</h1>
+</div>
 
 <style>
+	.soon-container {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		min-height: 60vh;
+		text-align: center;
+	}
+
+	h1 {
+		font-size: 4rem;
+		color: var(--text);
+		text-transform: uppercase;
+		font-weight: bold;
+	}
+
 	.gallery-container {
 		padding: 1rem;
 	}
